@@ -38,7 +38,8 @@ Twemoji file — pick another emoji.
    `puzzles/`, `videos/`, `history.json` and push to `main`.
 2. Video URL: `https://raw.githubusercontent.com/omaaaar244-blip/brainsnack/main/videos/NNNN.mp4`
 3. Schedule each with Metricool `createScheduledPost`, `blogId` **7801704**, provider `youtube` only:
-   - times: today **20:00** and tomorrow **02:00**, timezone `Asia/Riyadh` (US lunch / US evening)
+   - slots are **20:00** and **02:00** `Asia/Riyadh` (US lunch / US evening). Use the next two slots after
+     now that no `publish_at` in `history.json` already takes; each video gets its own slot
    - `youtubeData`: `{"title": ..., "type": "short", "privacy": "public", "madeForKids": false,
      "isAiGeneratedContent": false, "category": "ENTERTAINMENT", "tags": [...]}`
    - title ≤ 60 chars, a challenge, ending in `#shorts` (e.g. `Can You Guess This Movie From 2 Emojis? #shorts`)
