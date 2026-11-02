@@ -2,7 +2,7 @@
 usage: python3 render_short.py puzzle.json out.mp4
 
 Puzzle types (all share: number, hook, answer, explain?, seconds?):
-  emoji_guess : {"type":"emoji_guess","hook":"GUESS THE MOVIE","emojis":["🦁","👑"],"answer":"The Lion King"}
+  emoji_guess : {"type":"emoji_guess","hook":"GUESS THE MOVIE","emojis":["🚢","🧊","💔"],"answer":"Titanic"}
   odd_one_out : {"type":"odd_one_out","hook":"FIND THE ODD ONE","base":"🐱","odd":"🐯","cols":6,"rows":8,"pos":[3,5]}
   riddle      : {"type":"riddle","hook":"RIDDLE TIME","question":"What has keys\\nbut can't open locks?","answer":"A piano"}
   scramble    : {"type":"scramble","hook":"UNSCRAMBLE THE WORD","letters":"NAABNA","answer":"BANANA","hint":"A yellow fruit"}

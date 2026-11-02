@@ -1,4 +1,18 @@
 [
-  {"number": 1, "type": "emoji_guess", "answer": "The Lion King", "title": "Can You Guess This Movie From 2 Emojis? #shorts", "date": "2026-11-02", "publish_at": "2026-11-02T14:10:00+03:00"},
-  {"number": 2, "type": "odd_one_out", "answer": "🐯 among 🐱", "title": "Find The Tiger Hiding Among The Cats! #shorts", "date": "2026-11-02", "publish_at": "2026-11-02T20:00:00+03:00"}
+ {
+  "number": 1,
+  "type": "emoji_guess",
+  "answer": "The Lion King",
+  "title": "Can You Guess This Movie From 2 Emojis? #shorts",
+  "date": "2026-11-02",
+  "publish_at": "2026-11-02T14:10:00+03:00"
+ },
+ {
+  "number": 2,
+  "type": "odd_one_out",
+  "answer": "😃 among 😀",
+  "title": "Only Sharp Eyes Can Spot The Different Smile #shorts",
+  "date": "2026-11-02",
+  "publish_at": "2026-11-02T20:00:00+03:00"
+ }
 ]

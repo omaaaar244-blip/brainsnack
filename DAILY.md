@@ -11,19 +11,25 @@ cd <repo> && ./setup.sh          # fetches Twemoji SVGs into assets/twemoji (git
 Fonts, mascot and branding are in `assets/`. `history.json` lists every published puzzle.
 
 ## 2. Write two puzzles
+**Audience: teens and adults (13+), not children.** The channel is set "not made for kids", so the
+puzzles must be pitched at grown-ups: a real challenge for an adult, adult pop culture, adult framing.
+Nothing that reads as kids' content — no children's films or cartoons, nursery-level words, toys, or
+"easy" animal pairs. Aim for roughly half of adults getting it.
+
 Read `history.json` first. Never repeat an answer, a movie, a word, a riddle or an emoji pair.
 Use two **different** types per day and rotate across the week. Types (see `render_short.py` header):
 
 | type | what | rules |
 |---|---|---|
-| `emoji_guess` | guess the movie / animal / country / food / job from 2–4 emojis | well-known worldwide, family-friendly titles; hook names the category ("GUESS THE MOVIE") |
-| `odd_one_out` | grid with one different emoji | pick a pair that looks alike at a glance but is clearly different when found (🐱/🐯, 🍎/🍅, 😀/😃, 🌕/🌝, 🍊/🍑); default 6×6 |
-| `riddle` | short classic riddle, ≤ 2 lines of ≤ 26 chars | answer must be unambiguous |
-| `scramble` | unscramble a 5–8 letter everyday word | add a short `hint`; letters must be a real shuffle of the answer and not spell it |
+| `emoji_guess` | guess the movie / TV series / famous place / profession from 3–4 emojis | adult or all-ages blockbusters and series (Titanic, Inception, The Matrix, Breaking Bad, Jaws, Interstellar…); never animated kids' films; emojis should need a moment's thought, not spell it out |
+| `odd_one_out` | grid with one different emoji | subtle pairs that need a sharp eye (😀/😃, 🕐/🕑, 🌑/🌚, ⭐/🌟, 👍/👍🏻); 6×6, `seconds` 10 |
+| `riddle` | lateral-thinking or trick riddle, ≤ 4 short lines | clever twist, one unambiguous answer; avoid the famous kids' classics |
+| `scramble` | unscramble a 7–10 letter word | everyday adult vocabulary; short `hint`; letters a real shuffle that does not spell the answer |
 
-Everything must be correct, kind and safe for all ages: no politics, religion, violence, brands' logos,
-or real people. Numbering continues from the last `number` in `history.json`; save each puzzle as
-`puzzles/NNNN.json`.
+Hooks and titles challenge adults ("Most adults get this wrong", "Only sharp eyes see it",
+"Can you beat 10 seconds?") — never invent statistics like "only 1% can solve this".
+Everything must be correct and kind: no politics, religion, violence, gore, brands' logos, or real people.
+Numbering continues from the last `number` in `history.json`; save each puzzle as `puzzles/NNNN.json`.
 
 ## 3. Render and look
 ```bash
