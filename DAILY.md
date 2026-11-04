@@ -17,7 +17,14 @@ Nothing that reads as kids' content — no children's films or cartoons, nursery
 "easy" animal pairs. Aim for roughly half of adults getting it.
 
 Read `history.json` first. Never repeat an answer, a movie, a word, a riddle or an emoji pair.
-Use two **different** types per day and rotate across the week. Types (see `render_short.py` header):
+Use two **different** types per day. **What works on this channel is visual focus** — puzzles where the
+viewer has to stare at the screen and hunt (odd_one_out got ~75% of all views in week 1; text riddles and
+scrambles trail far behind). So:
+- **Every day, one of the two puzzles is `odd_one_out`.** Vary the emoji pair and make the difference hard to spot (set `pos`
+  away from the top row so the eye has to search).
+- The second puzzle prefers `emoji_guess` (also visual). Use `riddle` or `scramble` at most twice a week.
+
+Types (see `render_short.py` header):
 
 | type | what | rules |
 |---|---|---|
