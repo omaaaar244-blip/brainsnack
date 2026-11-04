@@ -26,5 +26,5 @@ old log lines into "Lessons" once they are settled.
 
 ## Decision log
 - 2026-11-04 (Omar): puzzles are not important — any topic, any identity, any style. Find what is
-  breaking out on Shorts every day and make our own version fast. Experiments queue below is optional.
-- 2026-11-04: odd_one_out every day; second slot prefers emoji_guess; riddle/scramble ≤ 2×/week.
+  breaking out on Shorts every day and make our own version fast. The experiments queue is optional.
+- 2026-11-04 (superseded by the line above): odd_one_out every day; riddle/scramble ≤ 2×/week.
