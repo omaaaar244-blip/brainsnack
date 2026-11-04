@@ -1,4 +1,4 @@
-# Brain Snack — channel strategy & owner's log
+# Channel strategy & owner's log
 
 The daily run acts as the channel's owner: it reads the numbers, studies the market, decides what to make,
 and records every decision here. Newest entries at the top of each section. Keep this file short — condense
@@ -17,7 +17,7 @@ old log lines into "Lessons" once they are settled.
   (611K) — a simple maths/logic question framed as a generational challenge.
 - Takeaway: shorter videos + a single image to scan + a counting/finding question. Our videos are 14–17 s.
 
-## Experiments queue (ideas to try, one at a time)
+## Experiments queue (optional ideas)
 1. Shorter odd_one_out: `seconds` 5–6 so the whole video is ~9–10 s and loops.
 2. New type "find the hidden character": a grid of one glyph with one look-alike (8 among 3s, O among Q,
    rn among m) — the market's "find the number" format. Needs a text-glyph mode in render_short.py.
@@ -25,4 +25,6 @@ old log lines into "Lessons" once they are settled.
 4. Simple-but-tricky maths with ONE correct answer (e.g. 8 − 2 × 3 + 1 = 3), framed "Most adults get this wrong".
 
 ## Decision log
+- 2026-11-04 (Omar): puzzles are not important — any topic, any identity, any style. Find what is
+  breaking out on Shorts every day and make our own version fast. Experiments queue below is optional.
 - 2026-11-04: odd_one_out every day; second slot prefers emoji_guess; riddle/scramble ≤ 2×/week.
