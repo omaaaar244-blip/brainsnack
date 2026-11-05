@@ -1,1 +1,8 @@
-{"number": 10, "type": "fact", "hook": "THIS SOUNDS FAKE", "emoji": "🤯", "beat": 2.6, "lines": ["Venus spins incredibly slowly.", "One spin takes 243 Earth days.", "One trip around the Sun takes only 225.", "!So one spin of Venus lasts longer than its whole year.", "!And it spins backwards: the Sun rises in the west."], "outro": "Follow for one wild fact a day"}
+{"number":10,"type":"story","scenes":[
+ {"t":3.6,"text":"Every night, a small window lit up in the valley.","near":1,"far":0},
+ {"t":3.6,"text":"And every night, a light on the far hill answered.","near":1,"far":1},
+ {"t":3.8,"text":"For years, they blinked to each other. No words. Just light.","near":"blink","far":"blink"},
+ {"t":3.8,"text":"Then one night, the far light didn't come on.","near":1,"far":0},
+ {"t":3.8,"text":"The small window stayed lit anyway. Night after night.","near":1,"far":0},
+ {"t":3.8,"text":"Until one cold night... a new light answered.","near":1,"far":"blink"}],
+ "end":"Keep your light on. Someone out there is looking for it.","end_t":4.5,"end_near":1,"end_far":1}

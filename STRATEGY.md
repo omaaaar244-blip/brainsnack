@@ -28,6 +28,10 @@ old log lines into "Lessons" once they are settled.
 4. Simple-but-tricky maths with ONE correct answer (e.g. 8 − 2 × 3 + 1 = 3), framed "Most adults get this wrong".
 
 ## Decision log
+- 2026-11-05 (Omar): "change everything as if I started a new channel — content about anything, varied every
+  day: weird facts one day, cooking another, animation + music + something sad that touches the heart...
+  not only these, your choice." -> rotate genres daily, two different kinds per day. #10 Venus fact replaced
+  by an animated heartfelt story with generated piano (renderers/story.py). Next run: try cooking.
 - 2026-11-05 (Omar, again): "I told you to change the content - why is it still the same?" -> NO MORE PUZZLES
   of any kind (find-the-odd, emoji guess, riddle, scramble). The channel is now a facts/explainer channel
   (space, science, the world), visual formats like scale lists and one-line facts. #9 "find the 8" was

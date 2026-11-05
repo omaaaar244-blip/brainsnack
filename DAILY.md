@@ -30,7 +30,13 @@ cd <repo> && ./setup.sh          # fetches Twemoji SVGs into assets/twemoji (git
 Fonts, mascot and branding are in `assets/`. `history.json` lists every published Short.
 
 ## 2. Make two Shorts
-**Omar, 2026-11-05: no puzzles at all any more** (no find-the-odd, emoji guess, riddle, scramble, find_glyph). Change the content, not just the look.
+**Omar, 2026-11-05 — treat it as a brand-new channel. Variety, a different kind of content every day:**
+weird/true facts one day, cooking another, a little animation with our own music and a sad, heart-touching
+story another — and anything else you like (these are examples, not a fixed list). **No puzzles at all**
+(no find-the-odd, emoji guess, riddle, scramble, find_glyph). The two Shorts of a day should be two different
+kinds. Never the Brain Snack look, mascot or "daily puzzles" CTA. Change the content, not just the look.
+Renderers so far: `renderers/minimal.py` (`fact`), `renderers/scale.py` (ranked list), `renderers/story.py`
+(animated night-valley story + generated piano). Write new ones freely (e.g. a cooking/recipe card renderer).
 
 **Anything goes.** Omar's instruction: puzzles are not important. Any topic, any style, any look — a new
 topic or a new visual identity every day is fine, a black screen with text is fine. The only goal: copy
