@@ -30,6 +30,8 @@ cd <repo> && ./setup.sh          # fetches Twemoji SVGs into assets/twemoji (git
 Fonts, mascot and branding are in `assets/`. `history.json` lists every published Short.
 
 ## 2. Make two Shorts
+**Omar, 2026-11-05: no puzzles at all any more** (no find-the-odd, emoji guess, riddle, scramble, find_glyph). Change the content, not just the look.
+
 **Anything goes.** Omar's instruction: puzzles are not important. Any topic, any style, any look — a new
 topic or a new visual identity every day is fine, a black screen with text is fine. The only goal: copy
 fast whatever is hitting on Shorts right now and publish it. The channel name, mascot and colours are

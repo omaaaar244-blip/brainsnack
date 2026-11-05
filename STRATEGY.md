@@ -28,6 +28,10 @@ old log lines into "Lessons" once they are settled.
 4. Simple-but-tricky maths with ONE correct answer (e.g. 8 − 2 × 3 + 1 = 3), framed "Most adults get this wrong".
 
 ## Decision log
+- 2026-11-05 (Omar, again): "I told you to change the content - why is it still the same?" -> NO MORE PUZZLES
+  of any kind (find-the-odd, emoji guess, riddle, scramble). The channel is now a facts/explainer channel
+  (space, science, the world), visual formats like scale lists and one-line facts. #9 "find the 8" was
+  replaced before publishing by a scale list (renderers/scale.py, light travel time).
 - 2026-11-05: Metricool views still null (2-3 day lag), vidIQ 0 credits -> no fresh numbers; acting on the
   11-04 market notes. New minimal black-screen identity (renderers/minimal.py, Inter font): #9 find_glyph
   "find the 8 among Bs", 8 s loop (experiment 2 + shorter); #10 first "fact" Short (Venus spin vs year), 16 s,

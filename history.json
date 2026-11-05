@@ -65,9 +65,9 @@
  },
  {
   "number": 9,
-  "type": "find_glyph",
-  "answer": "8 among Bs (row 8, col 6)",
-  "title": "Only Sharp Eyes Find The 8 In 5 Seconds #shorts",
+  "type": "scale",
+  "topic": "light travel time: Moon 1.3 s, Sun 8m20s, Mars 3-22 min, Jupiter 33-54 min, Pluto ~5.5 h, Proxima 4.2 y",
+  "title": "How Long Light Takes To Reach You #shorts",
   "date": "2026-11-05",
   "publish_at": "2026-11-06T02:00:00+03:00"
  },

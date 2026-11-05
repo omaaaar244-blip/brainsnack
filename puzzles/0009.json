@@ -1,1 +1,3 @@
-{"number":9,"type":"find_glyph","hook":"FIND THE 8","sub":"You have 5 seconds","base":"B","odd":"8","cols":8,"rows":12,"pos":[5,7],"seconds":5,"end":"Did you find it?"}
+{"number":9,"type":"scale","hook":"HOW LONG LIGHT TAKES TO REACH YOU","beat":1.9,
+ "rows":[["🌙","Moon","1.3 sec"],["☀️","Sun","8 min 20 s"],["🔴","Mars","3–22 min"],["🟠","Jupiter","33–54 min"],["⚪","Pluto","~5.5 hours"],["⭐","Nearest star","4.2 years"]],
+ "punch":"So every star you see tonight is light from the past.","outro":"Follow for one wild fact a day"}
