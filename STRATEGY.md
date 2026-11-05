@@ -10,6 +10,9 @@ old log lines into "Lessons" once they are settled.
 - Zero comments on every video so far despite "comment your answer" — the CTA is not working yet.
 
 ## Market notes (vidIQ outliers)
+- 2026-11-05: vidIQ balance 0 credits (resets 2026-12-02) -> WebSearch only. Faceless-Shorts studies: single
+  facts / quick tips at 13-18 s with a curiosity-gap hook and a payoff near the loop point; "find the number"
+  single-image hunts still everywhere in eye-test content.
 - 2026-11-04, Shorts, "brain teaser / test your eyes", channels < 200K subs: the breakouts are
   **very short (6–8 s) single-image visual challenges** that loop: "how many 7s are in this photo"
   (991K, 124x), "Be honest, what did you see at first glance?" (3.1M, 116x), "find the number 02",
@@ -25,6 +28,10 @@ old log lines into "Lessons" once they are settled.
 4. Simple-but-tricky maths with ONE correct answer (e.g. 8 − 2 × 3 + 1 = 3), framed "Most adults get this wrong".
 
 ## Decision log
+- 2026-11-05: Metricool views still null (2-3 day lag), vidIQ 0 credits -> no fresh numbers; acting on the
+  11-04 market notes. New minimal black-screen identity (renderers/minimal.py, Inter font): #9 find_glyph
+  "find the 8 among Bs", 8 s loop (experiment 2 + shorter); #10 first "fact" Short (Venus spin vs year), 16 s,
+  EDUCATION. Compare both vs odd_one_out once numbers arrive.
 - 2026-11-04 (Omar): puzzles are not important — any topic, any identity, any style. Find what is
   breaking out on Shorts every day and make our own version fast. The experiments queue is optional.
 - 2026-11-04 (superseded by the line above): odd_one_out every day; riddle/scramble ≤ 2×/week.

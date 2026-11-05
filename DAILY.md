@@ -52,6 +52,8 @@ content" rule).
 `renderers/`. Keep the existing types working. Store each video's source (JSON/script) in `puzzles/NNNN.*`
 and the mp4 in `videos/NNNN.mp4`.
 
+`renderers/minimal.py` (black screen, Inter): types `find_glyph` (find the odd character in a grid, ~8 s) and `fact` (one-line-at-a-time fact, ~16 s).
+
 The existing puzzle types, still available (see `render_short.py` header):
 
 | type | what | rules |
