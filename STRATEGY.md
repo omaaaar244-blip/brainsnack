@@ -10,6 +10,9 @@ old log lines into "Lessons" once they are settled.
 - Zero comments on every video so far despite "comment your answer" — the CTA is not working yet.
 
 ## Market notes (vidIQ outliers)
+- 2026-11-06: vidIQ 0 credits (resets 12-02) -> WebSearch. Oct/Nov roundups: faceless explainers with clear
+  captions, meme-template animations, POV skits, myth-breaking Shorts and countdown/ranking lists named as the
+  working formats; hard hook in the first second (payoff/surprise, no intro); seasonal/cozy content in November.
 - 2026-11-05: vidIQ balance 0 credits (resets 2026-12-02) -> WebSearch only. Faceless-Shorts studies: single
   facts / quick tips at 13-18 s with a curiosity-gap hook and a payoff near the loop point; "find the number"
   single-image hunts still everywhere in eye-test content.
@@ -28,6 +31,10 @@ old log lines into "Lessons" once they are settled.
 4. Simple-but-tricky maths with ONE correct answer (e.g. 8 − 2 × 3 + 1 = 3), framed "Most adults get this wrong".
 
 ## Decision log
+- 2026-11-06: no numbers yet (Metricool views null, only 6 rows; vidIQ 0). Kept the daily genre rotation with
+  two new formats/looks: #11 cooking recipe card (renderers/recipe.py, cream card + generated marimba, 24 s,
+  HOWTO_STYLE) and #12 myth-buster list (renderers/myth.py, navy + MYTH stamp, 27 s, EDUCATION). Shared helpers
+  in renderers/common.py. Next: compare recipe/myth/story/scale once views arrive (~11-08).
 - 2026-11-05 (Omar): "change everything as if I started a new channel — content about anything, varied every
   day: weird facts one day, cooking another, animation + music + something sad that touches the heart...
   not only these, your choice." -> rotate genres daily, two different kinds per day. #10 Venus fact replaced

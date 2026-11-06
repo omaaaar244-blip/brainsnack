@@ -36,7 +36,8 @@ story another — and anything else you like (these are examples, not a fixed li
 (no find-the-odd, emoji guess, riddle, scramble, find_glyph). The two Shorts of a day should be two different
 kinds. Never the Brain Snack look, mascot or "daily puzzles" CTA. Change the content, not just the look.
 Renderers so far: `renderers/minimal.py` (`fact`), `renderers/scale.py` (ranked list), `renderers/story.py`
-(animated night-valley story + generated piano). Write new ones freely (e.g. a cooking/recipe card renderer).
+(animated night-valley story + generated piano), `renderers/recipe.py`
+(recipe card), `renderers/myth.py` (myth vs truth list); shared helpers in `renderers/common.py`. Write new ones freely (e.g. a cooking/recipe card renderer).
 
 **Anything goes.** Omar's instruction: puzzles are not important. Any topic, any style, any look — a new
 topic or a new visual identity every day is fine, a black screen with text is fine. The only goal: copy
