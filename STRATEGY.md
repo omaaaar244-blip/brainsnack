@@ -10,6 +10,9 @@ old log lines into "Lessons" once they are settled.
 - Zero comments on every video so far despite "comment your answer" — the CTA is not working yet.
 
 ## Market notes (vidIQ outliers)
+- 2026-11-08: vidIQ 0 credits (resets 12-02) -> WebSearch. November roundups: "Friend Group POV" skits (the friend who
+  makes the plans / keeps the group together) trending; hard hook in second one; November = seasonal/cozy autumn content;
+  faceless text-on-screen explainers and text/chat stories keep working. No hard view numbers in the sources.
 - 2026-11-06: vidIQ 0 credits (resets 12-02) -> WebSearch. Oct/Nov roundups: faceless explainers with clear
   captions, meme-template animations, POV skits, myth-breaking Shorts and countdown/ranking lists named as the
   working formats; hard hook in the first second (payoff/surprise, no intro); seasonal/cozy content in November.
@@ -31,6 +34,11 @@ old log lines into "Lessons" once they are settled.
 4. Simple-but-tricky maths with ONE correct answer (e.g. 8 − 2 × 3 + 1 = 3), framed "Most adults get this wrong".
 
 ## Decision log
+- 2026-11-08: Metricool still null for every video (only the 6 oldest rows listed, no views), vidIQ 0 -> still no
+  numbers; the 11-07 run did not happen (no commit), so #11/#12 published from the 11-06 run. Followed the market:
+  #13 "friend group POV" as an animated group-chat text story (new renderers/chat.py, COMEDY, 22 s) and #14 seasonal
+  autumn science explainer, a drawn leaf changing colour (new renderers/leaf.py, generated chords, EDUCATION, 23 s).
+  Next: get real numbers (Metricool lag is now >5 days, consider vidIQ once credits reset 12-02) and compare genres.
 - 2026-11-06: no numbers yet (Metricool views null, only 6 rows; vidIQ 0). Kept the daily genre rotation with
   two new formats/looks: #11 cooking recipe card (renderers/recipe.py, cream card + generated marimba, 24 s,
   HOWTO_STYLE) and #12 myth-buster list (renderers/myth.py, navy + MYTH stamp, 27 s, EDUCATION). Shared helpers

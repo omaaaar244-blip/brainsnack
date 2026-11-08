@@ -1,0 +1,7 @@
+{"number":14,"type":"leaf","hook":"Leaves don't TURN yellow in autumn.","hook_sub":"They were yellow all along.","hook_t":2.8,
+ "scenes":[{"t":3.6,"text":"All summer, green chlorophyll soaks up sunlight and covers every other colour","color":[52,150,62],"chip":"CHLOROPHYLL","chip_color":[40,130,60]},
+           {"t":3.2,"text":"When the days get shorter and colder, the tree stops making it","color":[128,150,50],"chip":"CHLOROPHYLL BREAKS DOWN","chip_color":[110,120,50]},
+           {"t":3.6,"text":"The yellow and orange pigments were underneath the whole time","color":[236,176,40],"chip":"CAROTENOIDS","chip_color":[214,140,20]},
+           {"t":3.8,"text":"Red is different: many trees make it fresh, right in autumn","color":[196,46,40],"chip":"ANTHOCYANINS","chip_color":[176,36,40]},
+           {"t":3.6,"text":"Then the tree seals off the stem... and lets the leaf go","color":[176,70,36],"chip":"","fall":true}],
+ "end":"Follow for more things you never noticed","end_t":2.8}

@@ -37,7 +37,8 @@ story another — and anything else you like (these are examples, not a fixed li
 kinds. Never the Brain Snack look, mascot or "daily puzzles" CTA. Change the content, not just the look.
 Renderers so far: `renderers/minimal.py` (`fact`), `renderers/scale.py` (ranked list), `renderers/story.py`
 (animated night-valley story + generated piano), `renderers/recipe.py`
-(recipe card), `renderers/myth.py` (myth vs truth list); shared helpers in `renderers/common.py`. Write new ones freely (e.g. a cooking/recipe card renderer).
+(recipe card), `renderers/myth.py` (myth vs truth list), `renderers/chat.py` (group-chat text story / POV),
+`renderers/leaf.py` (autumn leaf colour explainer); shared helpers in `renderers/common.py`. Write new ones freely (e.g. a cooking/recipe card renderer).
 
 **Anything goes.** Omar's instruction: puzzles are not important. Any topic, any style, any look — a new
 topic or a new visual identity every day is fine, a black screen with text is fine. The only goal: copy
