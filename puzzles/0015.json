@@ -1,0 +1,7 @@
+{"type":"wyr","hook":"Would you rather...","secs":3.2,
+ "rounds":[["Pause time whenever you want","⏸️","Rewind 10 seconds whenever you want","⏪"],
+           ["Speak every language","🗣️","Talk to animals","🐶"],
+           ["Free flights for life","✈️","Free food for life","🍕"],
+           ["Never need to sleep","😴","Never need to eat","🍽️"],
+           ["Live without music","🎵","Live without your phone","📱"]],
+ "end":"Comment your 5 letters below"}

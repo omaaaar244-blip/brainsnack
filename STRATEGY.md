@@ -7,9 +7,13 @@ old log lines into "Lessons" once they are settled.
 ## Lessons (what the data says so far)
 - Visual hunt beats text. Week 1: "Only Sharp Eyes Can Spot The Different Smile" (odd_one_out) = 967 views,
   ~74% of all channel views. Emoji movie guess 201 / 29; riddle 54; scramble 64.
-- Zero comments on every video so far despite "comment your answer" — the CTA is not working yet.
+- Zero comments on every video so far despite "comment your answer" — the CTA is not working yet. 11-09: testing a
+  low-effort comment ask (type 5 letters) instead.
 
 ## Market notes (vidIQ outliers)
+- 2026-11-09: vidIQ 0 credits -> WebSearch. Roundups again name Friend Group POV skits, before/after reveals,
+  hard-hook Shorts under 60 s; engagement/interactive formats (would-you-rather, this-or-that) and oddly satisfying
+  loops remain evergreen faceless outliers. No hard view numbers available.
 - 2026-11-08: vidIQ 0 credits (resets 12-02) -> WebSearch. November roundups: "Friend Group POV" skits (the friend who
   makes the plans / keeps the group together) trending; hard hook in second one; November = seasonal/cozy autumn content;
   faceless text-on-screen explainers and text/chat stories keep working. No hard view numbers in the sources.
@@ -34,6 +38,10 @@ old log lines into "Lessons" once they are settled.
 4. Simple-but-tricky maths with ONE correct answer (e.g. 8 − 2 × 3 + 1 = 3), framed "Most adults get this wrong".
 
 ## Decision log
+- 2026-11-09: Metricool still null (only the 6 oldest rows), vidIQ 0 -> no numbers for a 4th run; #13/#14 confirmed
+  published. Two new kinds: #15 interactive "Would you rather" x5 (renderers/wyr.py, 19 s) aimed at our zero-comment
+  problem ("comment your 5 letters"), and #16 satisfying sorting race bubble vs quick sort (renderers/sort.py, real
+  computed comparison counts, generated tones, 24 s). Watch: comments on #15.
 - 2026-11-08: Metricool still null for every video (only the 6 oldest rows listed, no views), vidIQ 0 -> still no
   numbers; the 11-07 run did not happen (no commit), so #11/#12 published from the 11-06 run. Followed the market:
   #13 "friend group POV" as an animated group-chat text story (new renderers/chat.py, COMEDY, 22 s) and #14 seasonal
