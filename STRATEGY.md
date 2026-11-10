@@ -11,6 +11,9 @@ old log lines into "Lessons" once they are settled.
   low-effort comment ask (type 5 letters) instead.
 
 ## Market notes (vidIQ outliers)
+- 2026-11-10: vidIQ 0 -> WebSearch + viralmint W45 Shorts breakout tracker: biggest multiples vs channel average are
+  recipe/cooking demo (72M, 65,000x), "hack" explainer (52M), motivational montage (43M), DIY build process (18M),
+  science experiment (11M); DIY and "science explained" niches have the highest median breakouts. Music/trailers top raw views.
 - 2026-11-09: vidIQ 0 credits -> WebSearch. Roundups again name Friend Group POV skits, before/after reveals,
   hard-hook Shorts under 60 s; engagement/interactive formats (would-you-rather, this-or-that) and oddly satisfying
   loops remain evergreen faceless outliers. No hard view numbers available.
@@ -38,6 +41,11 @@ old log lines into "Lessons" once they are settled.
 4. Simple-but-tricky maths with ONE correct answer (e.g. 8 − 2 × 3 + 1 = 3), framed "Most adults get this wrong".
 
 ## Decision log
+- 2026-11-10: Metricool still null (6 oldest rows only), vidIQ 0 -> 5th run without numbers; #16 confirmed published
+  (youtube ld57jpP-3rs). Followed the W45 breakouts (science-explained + motivational): #17 paper folded 42 times
+  reaches the Moon (renderers/fold.py, sky->space, computed thickness, milestones, rising tones, 27 s, EDUCATION) and
+  #18 motivational "1% better every day" chart 1.01^365 vs 0.99^365 (renderers/compound.py, generated piano, 25 s).
+  Both end with a comment ask (your guess / "day 1"). Next: once numbers come, compare explainer vs story vs interactive.
 - 2026-11-09: Metricool still null (only the 6 oldest rows), vidIQ 0 -> no numbers for a 4th run; #13/#14 confirmed
   published. Two new kinds: #15 interactive "Would you rather" x5 (renderers/wyr.py, 19 s) aimed at our zero-comment
   problem ("comment your 5 letters"), and #16 satisfying sorting race bubble vs quick sort (renderers/sort.py, real

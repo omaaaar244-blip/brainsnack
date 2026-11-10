@@ -39,7 +39,8 @@ Renderers so far: `renderers/minimal.py` (`fact`), `renderers/scale.py` (ranked 
 (animated night-valley story + generated piano), `renderers/recipe.py`
 (recipe card), `renderers/myth.py` (myth vs truth list), `renderers/chat.py` (group-chat text story / POV),
 `renderers/leaf.py` (autumn leaf colour explainer), `renderers/wyr.py` (would-you-rather split cards),
-`renderers/sort.py` (sorting-algorithm race with tones); shared helpers in `renderers/common.py`. Write new ones freely (e.g. a cooking/recipe card renderer).
+`renderers/sort.py` (sorting-algorithm race with tones), `renderers/fold.py` (paper-folding doubling to the Moon),
+`renderers/compound.py` (motivational 1%-a-day compounding chart); shared helpers in `renderers/common.py`. Write new ones freely (e.g. a cooking/recipe card renderer).
 
 **Anything goes.** Omar's instruction: puzzles are not important. Any topic, any style, any look — a new
 topic or a new visual identity every day is fine, a black screen with text is fine. The only goal: copy

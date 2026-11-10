@@ -1,0 +1,49 @@
+{
+ "type": "fold",
+ "mm": 0.1,
+ "folds": 42,
+ "hook": "Fold a 0.1 mm sheet of paper 42 times. How thick is it?",
+ "sub": "Guess a number before the end",
+ "milestones": [
+  [
+   7,
+   "📱",
+   "Thicker than a smartphone"
+  ],
+  [
+   14,
+   "🧍",
+   "About as tall as you"
+  ],
+  [
+   20,
+   "🏢",
+   "About as tall as a 30-storey tower"
+  ],
+  [
+   23,
+   "🏙️",
+   "Taller than the world's tallest building (828 m)"
+  ],
+  [
+   27,
+   "🏔️",
+   "Higher than Mount Everest (8.8 km)"
+  ],
+  [
+   32,
+   "🛰️",
+   "Past the Space Station's orbit (~400 km)"
+  ],
+  [
+   42,
+   "🌕",
+   "Past the Moon (384,400 km away)"
+  ]
+ ],
+ "end": [
+  "42 folds = 439,805 km.",
+  "Every fold doubles the thickness. That's how fast doubling grows.",
+  "(In real life, even record attempts stopped at about 12-13 folds.) What did you guess?"
+ ]
+}
