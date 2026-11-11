@@ -1,0 +1,10 @@
+{
+ "number": 19,
+ "type": "pendulum",
+ "n": 15,
+ "n0": 16,
+ "cycle": 20,
+ "hook": "15 pendulums. All different lengths.",
+ "end": "The longest swings 16 times in 20 s, each shorter one once more, up to 30.",
+ "cta": "Comment the second you saw the snake"
+}

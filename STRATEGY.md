@@ -5,12 +5,17 @@ and records every decision here. Newest entries at the top of each section. Keep
 old log lines into "Lessons" once they are settled.
 
 ## Lessons (what the data says so far)
+- Metricool free plan = 20 posts/month across all networks; it fails at publish time, not at scheduling. Check
+  getScheduledPosts for status ERROR every run.
 - Visual hunt beats text. Week 1: "Only Sharp Eyes Can Spot The Different Smile" (odd_one_out) = 967 views,
   ~74% of all channel views. Emoji movie guess 201 / 29; riddle 54; scramble 64.
 - Zero comments on every video so far despite "comment your answer" — the CTA is not working yet. 11-09: testing a
   low-effort comment ask (type 5 letters) instead.
 
 ## Market notes (vidIQ outliers)
+- 2026-11-11: vidIQ 0 (resets 12-02) -> WebSearch; November roundups add nothing new: vertical <60 s with a hard hook is
+  the discovery engine; no hard Shorts numbers. Acting on the W45 tracker (recipe = biggest multiple, science-explained/
+  satisfying physics next).
 - 2026-11-10: vidIQ 0 -> WebSearch + viralmint W45 Shorts breakout tracker: biggest multiples vs channel average are
   recipe/cooking demo (72M, 65,000x), "hack" explainer (52M), motivational montage (43M), DIY build process (18M),
   science experiment (11M); DIY and "science explained" niches have the highest median breakouts. Music/trailers top raw views.
@@ -41,6 +46,13 @@ old log lines into "Lessons" once they are settled.
 4. Simple-but-tricky maths with ONE correct answer (e.g. 8 − 2 × 3 + 1 = 3), framed "Most adults get this wrong".
 
 ## Decision log
+- 2026-11-11: BLOCKER found: #17 and #18 never published - Metricool "You have reached your Metricool account limit"
+  (free plan: 20 posts/month incl. the 4 IG/TikTok posts of 11-02/03). Omar notified; needs a Metricool upgrade or
+  the Dec 1 reset. Metricool analytics still null, vidIQ 0 credits and vidIQ has no YouTube channel connected ->
+  no numbers for a 6th run. Made #19 pendulum wave (new renderers/pendulum.py: real physics, 15 pendulums swinging
+  16..30 times per 20 s, lengths 38.8..11.0 cm, rows split at half-cycle and realign at 20 s, slow-mo end, pentatonic
+  tones, 23 s, SCIENCE_TECHNOLOGY) and #20 3-ingredient peanut butter cookies (recipe renderer, 24 s, HOWTO_STYLE),
+  scheduled 11-11 20:00 / 11-12 02:00 - they will fail too unless the Metricool limit is lifted first.
 - 2026-11-10: Metricool still null (6 oldest rows only), vidIQ 0 -> 5th run without numbers; #16 confirmed published
   (youtube ld57jpP-3rs). Followed the W45 breakouts (science-explained + motivational): #17 paper folded 42 times
   reaches the Moon (renderers/fold.py, sky->space, computed thickness, milestones, rising tones, 27 s, EDUCATION) and

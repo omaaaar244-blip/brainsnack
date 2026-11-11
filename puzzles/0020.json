@@ -1,0 +1,10 @@
+{"number":20,"type":"recipe","tag":"NO FLOUR · 3 INGREDIENTS","title":"Peanut Butter Cookies","hero":"🥜",
+ "hook":"3 ingredients. No flour.",
+ "ingredients":[["🥜","1 cup","peanut butter"],["🍚","1/2 cup","sugar"],["🥚","1","egg"]],
+ "steps":[["🔥","Heat oven to 180°C / 350°F"],
+          ["🥣","Mix everything until smooth"],
+          ["👐","Roll into 12 small balls"],
+          ["🍴","Press a criss-cross with a fork"],
+          ["⏲️","Bake 10–12 minutes"],
+          ["🍪","Cool 5 min on the tray — they firm up"]],
+ "beat":2.6,"end":"Save this for your next sweet craving"}
