@@ -13,6 +13,8 @@ old log lines into "Lessons" once they are settled.
   low-effort comment ask (type 5 letters) instead.
 
 ## Market notes (vidIQ outliers)
+- 2026-11-12: vidIQ 0 (resets 12-02) -> WebSearch; 2026 roundups add nothing new (hard hook, <60 s, faceless explainers,
+  interactive challenges). Leaning on the 11-04 outliers ("what did you see first" / test-your-eyes, 100x+) and space facts.
 - 2026-11-11: vidIQ 0 (resets 12-02) -> WebSearch; November roundups add nothing new: vertical <60 s with a hard hook is
   the discovery engine; no hard Shorts numbers. Acting on the W45 tracker (recipe = biggest multiple, science-explained/
   satisfying physics next).
@@ -46,6 +48,12 @@ old log lines into "Lessons" once they are settled.
 4. Simple-but-tricky maths with ONE correct answer (e.g. 8 − 2 × 3 + 1 = 3), framed "Most adults get this wrong".
 
 ## Decision log
+- 2026-11-12: Metricool limit STILL blocks: #17-#20 all status ERROR "account limit" (none published since #16 on 11-10).
+  Analytics still null, vidIQ 0 and no YouTube account connected in vidIQ (no other publish path). Omar notified again.
+  Made #21 "your age on other planets" (scale renderer, 20 Earth years / orbital periods: Neptune 44 d .. Mercury 83 y,
+  comment-your-age CTA, 16 s, EDUCATION) and #22 optical-illusion quiz (new renderers/illusion.py, Müller-Lyer +
+  Ebbinghaus with countdown and measured reveal, "comment YES or NO", 19 s, ENTERTAINMENT). Scheduled 11-12 20:00 /
+  11-13 02:00; they fail too unless Metricool is upgraded first. Once unblocked, republish #17-#22 backlog.
 - 2026-11-11: BLOCKER found: #17 and #18 never published - Metricool "You have reached your Metricool account limit"
   (free plan: 20 posts/month incl. the 4 IG/TikTok posts of 11-02/03). Omar notified; needs a Metricool upgrade or
   the Dec 1 reset. Metricool analytics still null, vidIQ 0 credits and vidIQ has no YouTube channel connected ->
