@@ -1,0 +1,9 @@
+{"number":24,"type":"story","scenes":[
+ {"t":3.6,"text":"Grandma kept her porch light on every single night.","near":1,"far":0},
+ {"t":3.8,"text":"\"So you can always find your way home,\" she said.","near":1,"far":0},
+ {"t":3.8,"text":"Then I moved to the city on the far hill. Years went by.","near":1,"far":1},
+ {"t":4.0,"text":"Every call ended the same way: \"The light is still on.\"","near":"blink","far":1},
+ {"t":3.8,"text":"I kept saying \"next month.\" Then \"next year.\"","near":1,"far":1},
+ {"t":3.8,"text":"This winter, I finally walked back down the valley.","near":1,"far":0},
+ {"t":3.6,"text":"The light was still on. And so was she.","near":1,"far":0}],
+ "end":"Go see the people who leave the light on for you.","end_t":4.5,"end_near":1,"end_far":0}

@@ -1,0 +1,7 @@
+{"number":23,"type":"calendar","scenes":[
+ {"kind":"month","t":3.4,"title":"TODAY IS FRIDAY THE 13TH","sub":"And it's the third one this year","months":[[2026,11]],"circle":13},
+ {"kind":"months","t":4.2,"title":"2026 HAD THREE","sub":"February, March and November","months":[[2026,2],[2026,3],[2026,11]],"circle":13},
+ {"kind":"startsun","t":4.0,"title":"THE RULE","sub":"Any month that starts on a Sunday always has a Friday the 13th","months":[[2026,11]],"circle":13},
+ {"kind":"bars","t":4.4,"title":"IT'S NOT RARE","sub":"Over the 400-year calendar cycle, the 13th falls on a Friday more than any other day","bars":{"Mon":685,"Tue":685,"Wed":687,"Thu":684,"Fri":688,"Sat":684,"Sun":687},"note":"13ths per weekday in 4,800 months"},
+ {"kind":"word","t":3.8,"title":"THE FEAR HAS A NAME","word":"PARASKEVI-|DEKATRIA-|PHOBIA","foot":"Greek for Friday + thirteen + fear"},
+ {"kind":"end","t":3.8,"title":"NEXT ONE","sub":"August 13, 2027","months":[[2027,8]],"circle":13,"foot":"Anything weird happen to you today? Comment below"}]}

@@ -13,6 +13,8 @@ old log lines into "Lessons" once they are settled.
   low-effort comment ask (type 5 letters) instead.
 
 ## Market notes (vidIQ outliers)
+- 2026-11-13: vidIQ 0 (resets 12-02) -> WebSearch; roundups repeat the same faceless advice (hard hook, <60 s, explainers,
+  emotional stories). Acting on timeliness: today is Friday the 13th (date-hook explainer) + heartfelt story genre.
 - 2026-11-12: vidIQ 0 (resets 12-02) -> WebSearch; 2026 roundups add nothing new (hard hook, <60 s, faceless explainers,
   interactive challenges). Leaning on the 11-04 outliers ("what did you see first" / test-your-eyes, 100x+) and space facts.
 - 2026-11-11: vidIQ 0 (resets 12-02) -> WebSearch; November roundups add nothing new: vertical <60 s with a hard hook is
@@ -48,6 +50,11 @@ old log lines into "Lessons" once they are settled.
 4. Simple-but-tricky maths with ONE correct answer (e.g. 8 − 2 × 3 + 1 = 3), framed "Most adults get this wrong".
 
 ## Decision log
+- 2026-11-13: Metricool limit STILL blocks: #17-#22 all ERROR "account limit"; analytics still null (6 oldest rows),
+  vidIQ 0 and no social account connected in vidIQ -> no other publish path. Omar notified again. Made #23 timely
+  Friday-the-13th explainer (new renderers/calfacts.py: computed calendars, 400-year weekday bar chart, ticking clock,
+  24 s, EDUCATION) and #24 heartfelt story "grandma's porch light" (story renderer, 31 s, PEOPLE_BLOGS). Scheduled
+  11-13 20:00 / 11-14 02:00; they fail too unless Metricool is upgraded. Backlog to republish once unblocked: #17-#24.
 - 2026-11-12: Metricool limit STILL blocks: #17-#20 all status ERROR "account limit" (none published since #16 on 11-10).
   Analytics still null, vidIQ 0 and no YouTube account connected in vidIQ (no other publish path). Omar notified again.
   Made #21 "your age on other planets" (scale renderer, 20 Earth years / orbital periods: Neptune 44 d .. Mercury 83 y,
