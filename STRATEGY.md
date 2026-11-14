@@ -13,6 +13,8 @@ old log lines into "Lessons" once they are settled.
   low-effort comment ask (type 5 letters) instead.
 
 ## Market notes (vidIQ outliers)
+- 2026-11-14: vidIQ 0 (resets 12-02) -> WebSearch; 2026 roundups unchanged (faceless explainers, animal/weird facts,
+  relatable POV/text stories, hard hook <60 s). No hard numbers. Acting on animal facts + relatable POV chat.
 - 2026-11-13: vidIQ 0 (resets 12-02) -> WebSearch; roundups repeat the same faceless advice (hard hook, <60 s, explainers,
   emotional stories). Acting on timeliness: today is Friday the 13th (date-hook explainer) + heartfelt story genre.
 - 2026-11-12: vidIQ 0 (resets 12-02) -> WebSearch; 2026 roundups add nothing new (hard hook, <60 s, faceless explainers,
@@ -50,6 +52,10 @@ old log lines into "Lessons" once they are settled.
 4. Simple-but-tricky maths with ONE correct answer (e.g. 8 − 2 × 3 + 1 = 3), framed "Most adults get this wrong".
 
 ## Decision log
+- 2026-11-14: Metricool limit STILL blocks: #17-#24 all ERROR "account limit" (8 Shorts unpublished); analytics still
+  null, vidIQ 0. Omar notified again. Made #25 animal sleep-hours scale list (giraffe ~2 h .. little brown bat ~20 h,
+  16 s, EDUCATION) and #26 relatable POV chat story "friend always 5 minutes away" (23 s, COMEDY). Scheduled 11-14
+  20:00 / 11-15 02:00; they fail too unless Metricool is upgraded. Backlog to republish once unblocked: #17-#26.
 - 2026-11-13: Metricool limit STILL blocks: #17-#22 all ERROR "account limit"; analytics still null (6 oldest rows),
   vidIQ 0 and no social account connected in vidIQ -> no other publish path. Omar notified again. Made #23 timely
   Friday-the-13th explainer (new renderers/calfacts.py: computed calendars, 400-year weekday bar chart, ticking clock,
